@@ -1,8 +1,8 @@
 ---
 bg: "tools.jpg"
 layout: post
-title:  C++ 语法
-crawlertitle: C++ 语法
+title:  sizeof&strlen 详述
+crawlertitle: sizeof&strlen 详述
 summary: Language
 date:   2021-04-09
 categories: C++
